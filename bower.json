@@ -1,0 +1,21 @@
+{
+  "name": "ko-grid-data-refresh",
+  "main": "dist/ko-grid-data-refresh.js",
+  "description": "A ko-grid extension providing a data refresh toggle.",
+  "authors": ["Eduardo Bonato (https://github.com/ebonato)"],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "ko-grid",
+    "data-refresh",
+    "datarefresh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ebonato/ko-grid-data-refresh.git"
+  },
+  "dependencies": {
+    "knockout": "^3.3.0",
+    "ko-grid": "benschulz/ko-grid",
+    "ko-grid-view-modes": "benschulz/ko-grid-view-modes"
+  }
+}
