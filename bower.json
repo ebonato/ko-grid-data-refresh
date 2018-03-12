@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "knockout": "^3.3.0",
-    "ko-grid": "benschulz/ko-grid",
+    "ko-grid": "ebonato/ko-grid",
     "ko-grid-view-modes": "benschulz/ko-grid-view-modes"
   }
 }
